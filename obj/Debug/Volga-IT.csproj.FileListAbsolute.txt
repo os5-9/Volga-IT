@@ -1,0 +1,17 @@
+C:\Users\Popka\source\repos\Volga-IT\bin\Debug\Volga-IT.exe.config
+C:\Users\Popka\source\repos\Volga-IT\bin\Debug\Volga-IT.exe
+C:\Users\Popka\source\repos\Volga-IT\bin\Debug\Volga-IT.pdb
+C:\Users\Popka\source\repos\Volga-IT\bin\Debug\EntityFramework.dll
+C:\Users\Popka\source\repos\Volga-IT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Popka\source\repos\Volga-IT\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Popka\source\repos\Volga-IT\bin\Debug\EntityFramework.xml
+C:\Users\Popka\source\repos\Volga-IT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Popka\source\repos\Volga-IT\obj\Debug\Volga-IT.csproj.AssemblyReference.cache
+C:\Users\Popka\source\repos\Volga-IT\obj\Debug\Volga-IT.csproj.CoreCompileInputs.cache
+C:\Users\Popka\source\repos\Volga-IT\obj\Debug\Volga-IT.csproj.CopyComplete
+C:\Users\Popka\source\repos\Volga-IT\obj\Debug\Volga-IT.exe
+C:\Users\Popka\source\repos\Volga-IT\obj\Debug\Volga-IT.pdb
+C:\Users\Popka\source\repos\Volga-IT\bin\Debug\System.Data.SQLite.dll
+C:\Users\Popka\source\repos\Volga-IT\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Popka\source\repos\Volga-IT\bin\Debug\System.Data.SQLite.xml
+C:\Users\Popka\source\repos\Volga-IT\bin\Debug\UniqueWords.db

@@ -1,0 +1,16 @@
+C:\Users\Popka\source\repos\Volga-IT\bin\Release\Volga-IT.exe.config
+C:\Users\Popka\source\repos\Volga-IT\bin\Release\Volga-IT.exe
+C:\Users\Popka\source\repos\Volga-IT\bin\Release\Volga-IT.pdb
+C:\Users\Popka\source\repos\Volga-IT\bin\Release\EntityFramework.dll
+C:\Users\Popka\source\repos\Volga-IT\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Popka\source\repos\Volga-IT\bin\Release\System.Data.SQLite.dll
+C:\Users\Popka\source\repos\Volga-IT\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Popka\source\repos\Volga-IT\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Popka\source\repos\Volga-IT\bin\Release\EntityFramework.xml
+C:\Users\Popka\source\repos\Volga-IT\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Popka\source\repos\Volga-IT\bin\Release\System.Data.SQLite.xml
+C:\Users\Popka\source\repos\Volga-IT\obj\Release\Volga-IT.csproj.AssemblyReference.cache
+C:\Users\Popka\source\repos\Volga-IT\obj\Release\Volga-IT.csproj.CoreCompileInputs.cache
+C:\Users\Popka\source\repos\Volga-IT\obj\Release\Volga-IT.csproj.CopyComplete
+C:\Users\Popka\source\repos\Volga-IT\obj\Release\Volga-IT.exe
+C:\Users\Popka\source\repos\Volga-IT\obj\Release\Volga-IT.pdb
